@@ -1,0 +1,7 @@
+# office、MindManager临时文件
+*.~$lock
+~$*.docx
+~$*.xlsx
+
+
+
